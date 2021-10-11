@@ -74,6 +74,6 @@ number, and 0 if it isn’t.
 
 ### _C06:_
 
-- [`ft_print_program_name`](c/c06/ex00/ft_print_program_name.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
-- [`ft_print_params`](c/c06/ex01/ft_print_params.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
-- [`ft_rev_params`](c/c06/ex02/ft_rev_params.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
+- [`ft_print_program_name`](c/c06/ex00/ft_print_program_name.c) - show the name of the program.
+- [`ft_print_params`](c/c06/ex01/ft_print_params.c) - show the arguments received on the command line (same order as command line).
+- [`ft_rev_params`](c/c06/ex02/ft_rev_params.c) - show the arguments received on the command line (reverse command line order).
