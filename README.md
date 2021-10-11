@@ -13,4 +13,4 @@ This basecamp is the last step in the selection process to become the 42 São Pa
 
 ### _C00:_
 
-- [`ft_putchar`](c/c00/ex00ft_isalpha.c)- write a character that displays the character passed as a parameter.
+- [`ft_putchar`](c/c00/ex00)- write a character that displays the character passed as a parameter.
