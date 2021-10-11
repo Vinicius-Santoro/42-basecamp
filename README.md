@@ -67,7 +67,13 @@ number given as a parameter.
 - [`ft_recursive_power`](c/c05/ex03/ft_recursive_power.c) - a recursive function that returns the value of a power applied to a number.
 - [`ft_fibonacci`](c/c05/ex04/ft_fibonacci.c) -  a function ft_fibonacci that returns the n-th element of the Fibonacci sequence, the first element being at the 0 index.
 - [`ft_sqrt`](c/c05/ex05/ft_sqrt.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
+<!--
 - [`ft_is_prime`](c/c05/ex06/ft_is_prime.c) - returns 1 if the number given as a parameter is a prime
 number, and 0 if it isn’t.
+-->
 
 ### _C06:_
+
+- [`ft_print_program_name`](c/c06/ex00/ft_print_program_name.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
+- [`ft_print_params`](c/c06/ex01/ft_print_params.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
+- [`ft_rev_params`](c/c06/ex02/ft_rev_params.c) - returns the square root of a number (if it exists), or 0 if the square root is an irrational number.
