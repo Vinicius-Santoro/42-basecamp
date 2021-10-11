@@ -9,8 +9,6 @@ This basecamp is the last step in the selection process to become the 42 São Pa
 
 ## _Functions made in this project (C language):_
 
-<h1></h1>
-
 ### _C00:_
 
 - [`ft_putchar`](c/c00/ex00/ft_putchar.c) - write a character that displays the character passed as a parameter.
@@ -50,6 +48,13 @@ printable characters, and 0 if it contains any other character.
 - [`ft_strlowcase`](c/c02/ex08/ft_strlowcase.c) - transforms every letter to lowercase.
 
 ### _C03:_
+
+- [`ft_strcmp.c`](c/c03/ex00/ft_strcmp.c) - compares the two strings s1 and s2.
+- [`ft_strncmp`](c/c03/ex01/ft_strncmp.c) - is similar (strcmp), except it only compares the first (at most) n bytes of s1 and s2.
+- [`ft_strcat.c`](c/c03/ex02/ft_strcat.c) - appends the src string to the dest string, overwriting the terminating null byte ('\0') at the end of dest, and then adds a terminating null byte.
+- [`ft_strncat.c`](c/c03/ex03/ft_strncat.c) - is similar (strcat), except it only compares the first (at most) n bytes of s1 and s2.
+- [`ft_strstr.c`](c/c03/ex04/ft_strstr.c) - occurrence of the substring needle in the string haystack. The terminating null
+bytes (aq\0aq) are not compared.
 
 ### _C04:_
 
