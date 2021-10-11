@@ -33,3 +33,26 @@ as a parameter. If n is negative, display ’N’. If n is positive or null, dis
 - [`ft_ultimate_div_mod`](c/c01/ex04/ft_ultimate_div_mod.c) - divides parameters a by b. The result of this division is stored in the int pointed by a.
 - [`ft_putstr`](c/c01/ex05/ft_putstr.c) - displays a string of characters on the standard output.
 - [`ft_strlen`](c/c01/ex06/ft_strlen.c) - counts and returns the number of characters in a string.
+
+### _C02:_
+
+- [`ft_strcpy`](c/c02/ex00/ft_strcpy.c) - reproduce the behavior of the function strcpy (man strcpy).
+- [`ft_strncpy`](c/c02/ex01/ft_strncpy.c) - reproduce the behavior of the function strcpy (man strncpy).
+- [`ft_str_is_alpha`](c/c02/ex02/ft_str_is_alpha.c) - returns 1 if the string given as a parameter contains only alphabetical characters, and 0 if it contains any other character.
+- [`ft_str_is_numeric`](c/c02/ex03/ft_str_is_numeric.c) - t returns 1 if the string given as a parameter contains only digits, and 0 if it contains any other character.
+- [`ft_str_is_lowercase`](c/c02/ex04/ft_str_is_lowercase.c) - returns 1 if the string given as a parameter contains only
+lowercase alphabetical characters, and 0 if it contains any other character.
+- [`ft_str_is_uppercase`](c/c02/ex05/ft_str_is_uppercase.c) - returns 1 if the string given as a parameter contains only
+uppercase alphabetical characters, and 0 if it contains any other character.
+- [`ft_str_is_printable`](c/c02/ex06/ft_str_is_printable.c) - returns 1 if the string given as a parameter contains only
+printable characters, and 0 if it contains any other character.
+- [`ft_strupcase`](c/c02/ex07/ft_strupcase.c) - transforms every letter to uppercase.
+- [`ft_strlowcase`](c/c02/ex08/ft_strlowcase.c) - transforms every letter to lowercase.
+
+### _C03:_
+
+### _C04:_
+
+### _C05:_
+
+### _C06:_
