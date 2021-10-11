@@ -30,6 +30,6 @@ as a parameter. If n is negative, display ’N’. If n is positive or null, dis
 - [`ft_ultimate_ft`](c/c01/ex01/ft_ultimate_ft.c) - takes a pointer to pointer to pointer to pointer to pointer to pointer to pointer to pointer to pointer to int as a parameter and sets the value "42" to that int.
 - [`ft_swap`](c/c01/ex02/ft_swap.c) - swaps the value of two integers whose addresses are entered as parameters.
 - [`ft_div_mod`](c/c01/ex03/ft_div_mod.c) - divides parameters a by b and stores the result in the int pointed by div.
-- [`ft_ultimate_div_mod`](c/c01/ex04/ ft_ultimate_div_mod.c) - divides parameters a by b. The result of this division is stored in the int pointed by a.
+- [`ft_ultimate_div_mod`](c/c01/ex04/ft_ultimate_div_mod.c) - divides parameters a by b. The result of this division is stored in the int pointed by a.
 - [`ft_putstr`](c/c01/ex05/ft_putstr.c) - displays a string of characters on the standard output.
 - [` ft_strlen`](c/c01/ex06/ft_ft.c) - counts and returns the number of characters in a string.
