@@ -61,7 +61,7 @@ bytes (\0) are not compared.
 - [`ft_strlen.c`](c/c04/ex00/ft_strlen.c) - counts and returns the number of characters in a string.
 - [`ft_putstr`](c/c01/ex05/ft_putstr.c) - displays a string of characters on the standard output.
 - [`ft_putnbr.c`](c/c04/ex02/ft_putnbr.c) - shows all possible values in a variable type int.
-- [`ft_atoi.c`](c/c04/ex03/.c) - 
+- [`ft_atoi.c`](c/c04/ex03/.c) - convert a string to an integer.
 
 ### _C05:_
 
