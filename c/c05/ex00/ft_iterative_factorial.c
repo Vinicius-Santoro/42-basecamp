@@ -8,8 +8,6 @@ int	ft_iterative_factorial(int nb)
 	else if (nb == 1 || nb == 0)
 		return (1);
 	while (nb > 0)
-	{
 		aux = aux * nb--;
-	}
 	return (aux);
 }
