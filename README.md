@@ -36,8 +36,8 @@ as a parameter. If n is negative, display ’N’. If n is positive or null, dis
 
 ### _C02:_
 
-- [`ft_strcpy`](c/c02/ex00/ft_strcpy.c) - reproduce the behavior of the function strcpy (man strcpy).
-- [`ft_strncpy`](c/c02/ex01/ft_strncpy.c) - reproduce the behavior of the function strcpy (man strncpy).
+- [`ft_strcpy`](c/c02/ex00/ft_strcpy.c) - copies the string pointed to by src, including the terminating null byte ('\0'), to the buffer pointed to by dest.
+- [`ft_strncpy`](c/c02/ex01/ft_strncpy.c) - is similar (strcpy), except that at most n bytes of src are copied.
 - [`ft_str_is_alpha`](c/c02/ex02/ft_str_is_alpha.c) - returns 1 if the string given as a parameter contains only alphabetical characters, and 0 if it contains any other character.
 - [`ft_str_is_numeric`](c/c02/ex03/ft_str_is_numeric.c) - t returns 1 if the string given as a parameter contains only digits, and 0 if it contains any other character.
 - [`ft_str_is_lowercase`](c/c02/ex04/ft_str_is_lowercase.c) - returns 1 if the string given as a parameter contains only
