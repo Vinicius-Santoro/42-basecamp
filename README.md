@@ -54,7 +54,7 @@ printable characters, and 0 if it contains any other character.
 - [`ft_strcat.c`](c/c03/ex02/ft_strcat.c) - appends the src string to the dest string, overwriting the terminating null byte ('\0') at the end of dest, and then adds a terminating null byte.
 - [`ft_strncat.c`](c/c03/ex03/ft_strncat.c) - is similar (strcat), except it only compares the first (at most) n bytes of s1 and s2.
 - [`ft_strstr.c`](c/c03/ex04/ft_strstr.c) - occurrence of the substring needle in the string haystack. The terminating null
-bytes (aq\0aq) are not compared.
+bytes (\0) are not compared.
 
 ### _C04:_
 
